@@ -1,0 +1,27 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #c0c0c0;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img{
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.mensaje-inicial{
+    color: rgba(17, 0, 255, 0.842);
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
